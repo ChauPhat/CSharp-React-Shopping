@@ -12,7 +12,8 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: url(Components/Assets/background.jpg) no-repeat;
+  /* background: url(./Components/Assets/img.jpg) no-repeat; */
+  background: url(./Components/Assets/v996-005.jpg) no-repeat;
   background-size: cover;
   background-position: center;
 }
